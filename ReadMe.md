@@ -1,4 +1,5 @@
 notice:
+
 1.copy 【conf.ini.sample】配置，改成 【conf.ini】文件，配置相应目录(这是重点！！！)
 
 2.生成服务端协议，只需执行 gen_server.bat
