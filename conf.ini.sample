@@ -1,0 +1,10 @@
+## conf.ini
+
+## proto 协议文件目录
+PROTOBUFFS_PROTO_PATH=G:\Code_Qgame\tbg_dev\tools\protobuffs\proto
+## 生成服务端文件，include目录
+PROTOBUFFS_SERVER_SRC_OUTPUT=G:\Code_Qgame\tbg_dev\tools\protobuffs\output\server\src
+## 生成服务端文件，src目录
+PROTOBUFFS_SERVER_INCLUDE_OUTPUT=G:\Code_Qgame\tbg_dev\tools\protobuffs\output\server\include
+## 生成客户端文件目录
+PROTOBUFFS_CLIENT_OUTPUT=.
